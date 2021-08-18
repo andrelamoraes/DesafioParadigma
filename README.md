@@ -3,8 +3,7 @@
 Repositório criado com o propósito de realizar as tarefas propostas abaixo:
 
 Para este projeto foi utilizado:
-Linguagem de programação C# 
-SQL
+Linguagem de programação C#         SQL
 
 ![image](https://user-images.githubusercontent.com/11685613/129981417-13a020ce-0902-465c-b202-7906ca70292d.png)
 

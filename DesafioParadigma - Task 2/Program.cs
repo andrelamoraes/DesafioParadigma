@@ -8,8 +8,9 @@ namespace DesafioParadigma
         {
             int[] cenario1 = new[] { 3, 2, 1, 6, 0, 5 };
             int[] cenario2 = new[] { 7, 5, 13, 9, 1, 6, 4 };
-
+            Console.WriteLine("--Cenario 1--");
             ConstruirArvore(cenario1);
+            Console.WriteLine("--Cenario 2--");
             ConstruirArvore(cenario2);
 
         }

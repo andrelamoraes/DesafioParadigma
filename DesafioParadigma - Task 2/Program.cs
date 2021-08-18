@@ -13,6 +13,7 @@ namespace DesafioParadigma
             ConstruirArvore(cenario2);
 
         }
+
         public static void ConstruirArvore(int[] vetorEntrada)
         {
             string galhosEsquerda = string.Empty;
@@ -43,6 +44,8 @@ namespace DesafioParadigma
             Console.WriteLine($"Galhos da Esquerda: {galhosEsquerda}");
             Console.WriteLine($"Galhos da Direita: {galhosDireita}");
         }
+
+        //Foi utilizado o algoritmo de BubbleSort para organizar a lista de forma decrescente
         public static int[] BubbleSort(int[] vetor)
         {
             int[] vetorOrganizado = CopiarVetor(vetor);
@@ -68,6 +71,8 @@ namespace DesafioParadigma
 
             return vetorOrganizado;
         }
+
+        //Retorna o indice do item localizado no array
         public static int RetornarIndice(int[] vetor, int number)
         {
             int indice = 0;
@@ -81,6 +86,8 @@ namespace DesafioParadigma
             }
             return indice;
         }
+
+        //Função criada para clonar o vetor, evitando apontar para a mesma referencia de memória e modificar o array de entrada, já que o array é um tipo primário
         public static int[] CopiarVetor(int[] vetor)
         {
             int[] novoArray = new int[vetor.Length];

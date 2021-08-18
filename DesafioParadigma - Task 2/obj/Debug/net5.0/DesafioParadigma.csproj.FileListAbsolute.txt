@@ -1,0 +1,16 @@
+C:\Users\dedeh\DesafioParadigma\bin\Debug\net5.0\DesafioParadigma.exe
+C:\Users\dedeh\DesafioParadigma\bin\Debug\net5.0\DesafioParadigma.deps.json
+C:\Users\dedeh\DesafioParadigma\bin\Debug\net5.0\DesafioParadigma.runtimeconfig.json
+C:\Users\dedeh\DesafioParadigma\bin\Debug\net5.0\DesafioParadigma.runtimeconfig.dev.json
+C:\Users\dedeh\DesafioParadigma\bin\Debug\net5.0\DesafioParadigma.dll
+C:\Users\dedeh\DesafioParadigma\bin\Debug\net5.0\ref\DesafioParadigma.dll
+C:\Users\dedeh\DesafioParadigma\bin\Debug\net5.0\DesafioParadigma.pdb
+C:\Users\dedeh\DesafioParadigma\obj\Debug\net5.0\DesafioParadigma.csproj.AssemblyReference.cache
+C:\Users\dedeh\DesafioParadigma\obj\Debug\net5.0\DesafioParadigma.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dedeh\DesafioParadigma\obj\Debug\net5.0\DesafioParadigma.AssemblyInfoInputs.cache
+C:\Users\dedeh\DesafioParadigma\obj\Debug\net5.0\DesafioParadigma.AssemblyInfo.cs
+C:\Users\dedeh\DesafioParadigma\obj\Debug\net5.0\DesafioParadigma.csproj.CoreCompileInputs.cache
+C:\Users\dedeh\DesafioParadigma\obj\Debug\net5.0\DesafioParadigma.dll
+C:\Users\dedeh\DesafioParadigma\obj\Debug\net5.0\ref\DesafioParadigma.dll
+C:\Users\dedeh\DesafioParadigma\obj\Debug\net5.0\DesafioParadigma.pdb
+C:\Users\dedeh\DesafioParadigma\obj\Debug\net5.0\DesafioParadigma.genruntimeconfig.cache
